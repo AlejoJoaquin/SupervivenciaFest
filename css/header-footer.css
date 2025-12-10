@@ -1,0 +1,11 @@
+.header{
+    display: flex; /*con esto hacemos que los elementos del header esten de izquierda a derecha*/
+    justify-content: space-between; /*hacemos que haya un espacio donde el logo esta a la izquierda y el menu a la derecha*/
+    text-align: center;
+    padding: 15px 15px;
+    background-color: #000;
+}
+
+
+
+
